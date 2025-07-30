@@ -222,7 +222,7 @@ const uploadPhoto = () => {
 .info-label {
   font-size: 16px;
   color: rgba(19, 39, 96, 1);
-  font-weight: 800;
+  font-weight: 700;
   white-space: nowrap; 
 }
 
