@@ -119,7 +119,7 @@ onUnmounted(() => {
   color: rgba(19, 39, 96, 1);
   margin-bottom: 5px;
   display: block;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .form-group .form-link {
@@ -161,11 +161,12 @@ onUnmounted(() => {
 .btn-like {
   text-align: center;
   padding: 12px;
-  border: 1px solid rgba(19, 39, 96, 1);
   background: transparent;
   width: 100%;
   cursor: pointer;
+  all: unset;
   color: rgba(19, 39, 96, 1);
+
 }
 
 .btn-like:hover {

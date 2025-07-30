@@ -47,7 +47,6 @@ const changeEmail = () => {
   background: white;
   border: 1px solid #e0e0e0;
   padding: 20px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .form-section.auth-section {
@@ -78,7 +77,7 @@ const changeEmail = () => {
   color: rgba(19, 39, 96, 1);
   margin-bottom: 5px;
   display: block;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .form-group .form-value {
