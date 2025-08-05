@@ -1,4 +1,4 @@
-# test-task-ribs
+# test-task-SB&RB
 
 ## Project setup
 ```
